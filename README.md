@@ -1,2 +1,2 @@
-# java-play-seed
+# play-java-seed
 Front end
